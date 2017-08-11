@@ -1,0 +1,171 @@
+LOCUS       cyp51A_(modified)       2048 bp    DNA     linear   UNA 25-MAR-2016
+DEFINITION  Aspergillus fumigatus 14-alpha sterol demethylase (cyp51A) gene,
+            complete cds.
+KEYWORDS    cyp51A, azole resistance, polymorphisms.
+SOURCE      Aspergillus fumigatus
+  ORGANISM  Aspergillus fumigatus
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae;
+            Aspergillus.
+FEATURES             Location/Qualifiers
+     source          1..2048
+                     /organism="Aspergillus fumigatus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:746128"
+     primer_bind     1..22
+                     /reference="Bader et al. (2013) Antimcrob Agent Chemother
+                     57(8):3513-8; PMC3719746; doi10.1128/AAC.00167-13"
+                     /Sequence="ATAATCGCAGCACCACTTCAGA"
+                     /Color="#0000ff"
+                     /label="P5 (AluI RFLP fwd. primer)"
+     Polymorphism    25..72                     
+                     /label="TR48"
+     Polymorphism    31..64
+                     /label="TR34"
+     misc_feature    205..208
+                     /Color="#0000ff"
+                     /label="AluI RFLP site"
+     mRNA            304..>2048
+                     /label="cyp51A mRNA"
+     CDS             join(353..553,625..>1971)
+                     /gene="cyp51A"
+                     /product="14-alpha sterol demethylase"
+                     /transcription="ATGGTGCCGATGCTATGGCTTACGGCCTACATGGCCGTTGCG
+                     GTGCTGACGGCAATCTTGCTCAATGTTGTTTATCAATTATTCTTTCGGCTTTGGAACC
+                     GAACAGAACCGCCAATGGTCTTTCATTGGGTCCCATTTCTGGGTAGTACCATCAGTTA
+                     CGGGATTGATCCCTACAAGTTCTTCTTTGCGTGCAGAGAAAAGTATGGCGATATCTTC
+                     ACTTTTATACTGTTGGGTCAAAAAACCACAGTCTACCTGGGCGTTCAGGGGAACGAGT
+                     TTATTCTCAACGGCAAGCTCAAGGATGTCAATGCGGAAGAGGTCTATAGTCCATTGAC
+                     GACCCCCGTTTTCGGATCGGACGTGGTGTATGATTGTCCCAATTCCAAGCTGATGGAG
+                     CAGAAAAAGTTCATCAAGTACGGCTTGACTCAGTCTGCGTTAGAGTCTCATGTGCCAC
+                     TTATTGAGAAGGAGGTTTTGGACTATCTGCGCGATTCACCGAACTTTCAAGGCTCGTC
+                     CGGCCGGATGGACATCTCTGCGGCAATGGCTGAGATTACCATTTTTACCGCTGCTCGA
+                     GCCCTCCAAGGCCAGGAAGTTCGTTCCAAACTCACGGCTGAGTTCGCTGACCTCTATC
+                     ATGACCTGGACAAGGGCTTTACTCCCATCAATTTTATGCTACCGTGGGCCCCATTGCC
+                     GCATAACAAGAAGCGAGATGCTGCTCATGCGCGCATGAGGTCAATCTACGTTGACATC
+                     ATCAATCAGCGCCGTCTTGACGGTGACAAGGACTCTCAGAAATCAGACATGATATGGA
+                     ACCTGATGAACTGCACATACAAAAACGGCCAGCAAGTGCCTGATAAAGAGATTGCGCA
+                     CATGATGATAACCCTGTTGATGGCTGGTCAGCATTCGTCTTCGTCCATCAGCGCCTGG
+                     ATTATGCTGAGACTGGCCTCACAGCCAAAAGTCCTCGAAGAGCTGTATCAGGAACAGC
+                     TGGCCAATCTTGGCCCCGCCGGGCCAGACGGCAGTCTTCCTCCGCTCCAGTACAAGGA
+                     TCTTGACAAACTTCCCTTCCATCAACATGTTATTCGTGAAACCTTACGGATTCACTCC
+                     TCTATTCACTCTATCATGCGCAAGGTGAAAAGCCCCTTGCCCGTTCCCGGGACCCCTT
+                     ACATGATTCCTCCCGGTCGCGTGCTCCTTGCTTCACCTGGAGTGACAGCCCTCAGCGA
+                     CGAACACTTCCCCAATGCTGGGTGCTGGGATCCCCATCGCTGGGAGAACCAGGCTACT
+                     AAGGAGCAGGAGAACGACGAGGTTGTCGACTACGGTTACGGCGCCGTCTCCAAGGGCA
+                     CGTCAAGTCCCTATCTTCCGTTTGGTGCTGGCCGACACCGCTGTATCGGCGAGAAATT
+                     CGCTTATGTCAACCTTGGTGTGATTCTGGCGACCATTGTGCGCCACCTGCGACTTTTC
+                     AACGTGGATGGAAAGAAAGGAGTCCCTGAAACTGACTATTCATCCCTCTTTTCGGGCC
+                     CCATGAAGCCAAGCATCATCGGCTGGGAGAAGCGGTCGAAAAACACATCCAAGTGA"
+                     /label="cyp51A coding sequence"
+     Polymorphism    488..490
+                     /label="F46"
+     Polymorphism    506..508
+                     /label="S52"
+     misc_feature    512..514
+                     /label="G54"
+     Polymorphism    685..687
+                     /label="Q88"
+     misc_feature    713..716
+                     /Color="#0000ff"
+                     /label="AluI polymorphic RFLP site"
+     misc_feature    715..717
+                     /label="L98"
+     Polymorphism    724..726
+                     /label="V101"
+     misc_feature    784..786
+                     /label="Y121"
+     Polymorphism    796..798
+                     /label="N125"
+     misc_feature    803..806
+                     /Color="#0000ff"
+                     /label="AluI RFLP site"
+     Polymorphism    811..813
+                     /label="E130"
+     misc_feature    835..837
+                     /label="G138"
+     Polymorphism    844..846
+                     /label="Q141"
+     Polymorphism    862..864
+                     /label="H147"
+     Polymorphism    937..939
+                     /label="M172"
+     misc_feature    1069..1071
+                     /label="P216"
+     misc_feature    1078..1080
+                     /label="F219"
+     misc_feature    1081..1083
+                     /label="M220"
+     Polymorphism    1165..1167
+                     /label="N248"
+     primer_bind     complement(1173..1192)
+                     /reference="Bader et al. (2013) Antimcrob Agent Chemother
+                     57(8):3513-8; PMC3719746; doi10.1128/AAC.00167-13"
+                     /Sequence="CCTTGTCACCGTCAAGACGG"
+                     /Color="#0000ff"
+                     /label="P7 (AluI RFLP rev. Primer)"
+     Polymorphism    1186..1188
+                     /label="D255"
+     Polymorphism    1213..1215
+                     /label="I266"
+     Polymorphism    1273..1275
+                     /label="A284"
+     misc_feature    1288..1290
+                     /label="T289"
+     Polymorphism    1312..1314
+                     /label="S297"
+     Polymorphism    1351..1353
+                     /label="A310"
+     Polymorphism    1438..1440
+                     /label="L339"
+     Polymorphism    1621..1623
+                     /label="S400"
+     Polymorphism    1702..1704
+                     /label="E427"
+     misc_feature    1714..1716
+                     /label="Y431"
+     misc_feature    1717..1719
+                     /label="G432"
+     misc_feature    1723..1725
+                     /label="G434"
+     misc_feature    1765..1767
+                     /label="G448"
+     Polymorphism    1906..1908
+                     /label="F495"
+ORIGIN      
+        1 ataatcgcag caccacttca gagttgtcta gaatcacgcg gtccggatgt gtgctgagcc
+       61 gaatgaaagt tgcctaatta ctaaggtgta gttccagcat accatacacc ctaactcata
+      121 ctacggtagg tagatctact tacctatgaa cctatattgg taggtaggtg aatataaaat
+      181 acagcatgga acatgttttt cattagctgg tctctcattc gtccttgtcc taggccttaa
+      241 ggaatccagt atatgaaata atccctctta tccattttcc tcctattctt tttcatttcc
+      301 ctcatcactg caactctaat cctcgggctc accctccctg tgtctcctcg aaatggtgcc
+      361 gatgctatgg cttacggcct acatggccgt tgcggtgctg acggcaatct tgctcaatgt
+      421 tgtttatcaa ttattctttc ggctttggaa ccgaacagaa ccgccaatgg tctttcattg
+      481 ggtcccattt ctgggtagta ccatcagtta cgggattgat ccctacaagt tcttctttgc
+      541 gtgcagagaa aaggcaagtc tcaagattgt agtttgacat tcattcctgg gcgcattgct
+      601 gagtattgct ttcttaaccg gcagtatggc gatatcttca cttttatact gttgggtcaa
+      661 aaaaccacag tctacctggg cgttcagggg aacgagttta ttctcaacgg caagctcaag
+      721 gatgtcaatg cggaagaggt ctatagtcca ttgacgaccc ccgttttcgg atcggacgtg
+      781 gtgtatgatt gtcccaattc caagctgatg gagcagaaaa agttcatcaa gtacggcttg
+      841 actcagtctg cgttagagtc tcatgtgcca cttattgaga aggaggtttt ggactatctg
+      901 cgcgattcac cgaactttca aggctcgtcc ggccggatgg acatctctgc ggcaatggct
+      961 gagattacca tttttaccgc tgctcgagcc ctccaaggcc aggaagttcg ttccaaactc
+     1021 acggctgagt tcgctgacct ctatcatgac ctggacaagg gctttactcc catcaatttt
+     1081 atgctaccgt gggccccatt gccgcataac aagaagcgag atgctgctca tgcgcgcatg
+     1141 aggtcaatct acgttgacat catcaatcag cgccgtcttg acggtgacaa ggactctcag
+     1201 aaatcagaca tgatatggaa cctgatgaac tgcacataca aaaacggcca gcaagtgcct
+     1261 gataaagaga ttgcgcacat gatgataacc ctgttgatgg ctggtcagca ttcgtcttcg
+     1321 tccatcagcg cctggattat gctgagactg gcctcacagc caaaagtcct cgaagagctg
+     1381 tatcaggaac agctggccaa tcttggcccc gccgggccag acggcagtct tcctccgctc
+     1441 cagtacaagg atcttgacaa acttcccttc catcaacatg ttattcgtga aaccttacgg
+     1501 attcactcct ctattcactc tatcatgcgc aaggtgaaaa gccccttgcc cgttcccggg
+     1561 accccttaca tgattcctcc cggtcgcgtg ctccttgctt cacctggagt gacagccctc
+     1621 agcgacgaac acttccccaa tgctgggtgc tgggatcccc atcgctggga gaaccaggct
+     1681 actaaggagc aggagaacga cgaggttgtc gactacggtt acggcgccgt ctccaagggc
+     1741 acgtcaagtc cctatcttcc gtttggtgct ggccgacacc gctgtatcgg cgagaaattc
+     1801 gcttatgtca accttggtgt gattctggcg accattgtgc gccacctgcg acttttcaac
+     1861 gtggatggaa agaaaggagt ccctgaaact gactattcat ccctcttttc gggccccatg
+     1921 aagccaagca tcatcggctg ggagaagcgg tcgaaaaaca catccaagtg agactgttgt
+     1981 aaccatcgag gacttcaaag gatttggtgt gatcggaata ggtgtattat acttaattca
+     2041 cccctcga
+//
